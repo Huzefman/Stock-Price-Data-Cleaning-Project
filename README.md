@@ -1,0 +1,2 @@
+# Stock-Price-Data-Cleaning-Project
+A data cleaning and visualization project using real-world stock price data. Merged and cleaned two datasets for a single stock, handled missing values, ensured logical consistency in price data (e.g., Low ≤ Open/Close ≤ High), treated outliers using IQR, and visualized price trends, volumes, and moving averages using Python (Pandas, NumPy, Matplotlib, Seaborn).
