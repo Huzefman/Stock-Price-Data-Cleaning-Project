@@ -1,6 +1,6 @@
 # 📈 Stock Price Data Cleaning & Visualization
 
-This project demonstrates how to clean, validate, and visualize real-world stock price data using Python.
+This project demonstrates the cleaning, validation, and visualization of stock price data using Python.
 
 ## ✅ Features
 - Merged and cleaned two stock price files
